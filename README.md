@@ -3,9 +3,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Louiixx-h/alien-waves-prototype?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Louiixx-h/alien-waves-prototype?style=for-the-badge)
 
-# Third Person Combat Game
+# Alient Waves Prototype
 
-Prototype created to learn combat system souls like.
+A rogulite game to defeat the monster horder and upgrade yourself to achieve the max power.
 
 ### 👇Click on image to watch the video.
 [![Assista a o vídeo!](https://img.youtube.com/vi/cdp4roFEeTA/maxresdefault.jpg)](https://youtu.be/cdp4roFEeTA)
