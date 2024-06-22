@@ -8,4 +8,4 @@
 Prototype created to learn combat system souls like.
 
 ### 👇Click on image to watch the video.
-[![Assista a o vídeo!](https://img.youtube.com/vi/9kEpSPi50bY/maxresdefault.jpg)](https://youtu.be/9kEpSPi50bY)
+[![Assista a o vídeo!](https://img.youtube.com/vi/cdp4roFEeTA/maxresdefault.jpg)](https://youtu.be/cdp4roFEeTA)
